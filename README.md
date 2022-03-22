@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Gakhramanzode
-- 🌱 I’m currently learning HTML, CSS, JS, Python, PHP, MySQL, Chat-bot, ML
+- 👋 Hi, I’m Asker
+- 🌱 I’m currently learning HTML, CSS, JS, python, PHP, MySQL, chatbot, machine learning
 - 📫 How to reach me asker.kakhramanov@me.com
 
 <!---
