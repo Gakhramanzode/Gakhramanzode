@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Gakhramanzode
-- 👀 I’m interested in sport
-- 🌱 I’m currently learning JS, Python, PHP, MySql
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML, CSS, JS, Python, PHP, MySQL, Chat-bot
 - 📫 How to reach me asker.kakhramanov@me.com
 
 <!---
