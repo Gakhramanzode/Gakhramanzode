@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asker
-- 🌱 I’m currently learning JS, python, PHP, MySQL, chatbot, machine learning
+- 🌱 I’m currently learning DevOps
 - 📫 How to reach me asker.kakhramanov@me.com
 
 My certificates:
