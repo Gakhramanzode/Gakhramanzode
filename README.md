@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asker
-- 🌱 I’m currently learning DevOps engineer
+- 🌱 I have been studying devops engineer for several months now
 - 📫 How to reach me asker.kakhramanov@me.com
 
 My certificates:
