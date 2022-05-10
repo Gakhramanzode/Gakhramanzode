@@ -2,7 +2,7 @@
 - 🌱 I have been studying DevOps for several months now
 - 📫 How to reach me asker.kakhramanov@me.com
 
-My all certificates:
+All my certificates:
 ![image](https://user-images.githubusercontent.com/62985982/164609139-8b5dd9d1-4910-4a14-9906-14c63a4bc091.png)
 ![photo_2022-03-29_16-12-37](https://user-images.githubusercontent.com/62985982/163122778-b147ef16-f318-4b10-af5c-c95ea52d5a51.jpg)
 ![photo_2022-03-29_16-11-46](https://user-images.githubusercontent.com/62985982/163122749-af61a2cd-2eb9-4d84-b3c1-50428ba9707b.jpg)
