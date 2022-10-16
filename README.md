@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asker
-- 🌱 I have been studying DevOps for several months now
+- 🌱 I have been studying DevOps
 - 📫 How to reach me asker.kakhramanov@me.com
 
 All my certificates:
