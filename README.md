@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asker
-- 🌱 I have been studying DevOps
-- 📫 How to reach me asker.kakhramanov@me.com
+- 🌱 I am DevOps engineer
+- 📫 My e-mail: asker.kakhramanov@me.com
 
 All my certificates:
 ![image](https://user-images.githubusercontent.com/62985982/164609139-8b5dd9d1-4910-4a14-9906-14c63a4bc091.png)
