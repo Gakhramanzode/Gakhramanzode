@@ -3,11 +3,12 @@
 - 📫 My e-mail: asker.kakhramanov@me.com
 
 All my certificates:
-![image](https://user-images.githubusercontent.com/62985982/164609139-8b5dd9d1-4910-4a14-9906-14c63a4bc091.png)
-![photo_2022-03-29_16-12-37](https://user-images.githubusercontent.com/62985982/163122778-b147ef16-f318-4b10-af5c-c95ea52d5a51.jpg)
-![photo_2022-03-29_16-11-46](https://user-images.githubusercontent.com/62985982/163122749-af61a2cd-2eb9-4d84-b3c1-50428ba9707b.jpg)
-![photo_2022-03-29_16-10-37](https://user-images.githubusercontent.com/62985982/163122659-3f2d8c3f-5181-4f74-9003-2af24a533fcd.jpg)
+![Кахраманов Аскер_20232YC00110_pages-to-jpg-0001](https://user-images.githubusercontent.com/62985982/218377393-91d19d41-4295-4f15-94eb-ac5d93a4b00b.jpg)
 ![photo_2023-01-27_15-03-02](https://user-images.githubusercontent.com/62985982/215082596-04b51ea7-e1db-4929-8db3-b75a60bb40fb.jpg)
+![photo_2022-03-29_16-10-37](https://user-images.githubusercontent.com/62985982/163122659-3f2d8c3f-5181-4f74-9003-2af24a533fcd.jpg)
+![photo_2022-03-29_16-11-46](https://user-images.githubusercontent.com/62985982/163122749-af61a2cd-2eb9-4d84-b3c1-50428ba9707b.jpg)
+![photo_2022-03-29_16-12-37](https://user-images.githubusercontent.com/62985982/163122778-b147ef16-f318-4b10-af5c-c95ea52d5a51.jpg)
+![image](https://user-images.githubusercontent.com/62985982/164609139-8b5dd9d1-4910-4a14-9906-14c63a4bc091.png)
 
 <!---
 Gakhramanzode/Gakhramanzode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
