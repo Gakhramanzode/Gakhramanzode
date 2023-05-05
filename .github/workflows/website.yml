@@ -3,7 +3,7 @@ name: Upload to Object Storage
 on:
   push:
     paths:
-      - "website-portfolio/index.html"
+      - 'website-portfolio/index.html'
 
 jobs:
   deploy:
@@ -16,10 +16,10 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y s3cmd
-  
+
       - name: Configure s3cmd
         run: |
           echo -e "[default]\naccess_key=${{ secrets.ACCESS_KEY }}\nsecret_key=${{ secrets.SECRET_KEY }}\nhost_base=storage.yandexcloud.net\nhost_bucket=%(bucket)s.storage.yandexcloud.net\nbucket_location=ru-central1" > ~/.s3cfg
 
       - name: Upload to Object Storage
-        run: s3cmd put index.html s3://devopsask.site/index.html
+        run: s3cmd put website-portfolio/index.html s3://devopsask.site/index.html
