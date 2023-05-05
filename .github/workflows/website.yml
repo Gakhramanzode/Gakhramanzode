@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'website-portfolio/index.html'
+      - 'website-portfolio/AskerKakhramanov-CV.doc'
 
 jobs:
   deploy:
@@ -19,7 +20,14 @@ jobs:
 
       - name: Configure s3cmd
         run: |
-          echo -e "[default]\naccess_key=${{ secrets.ACCESS_KEY }}\nsecret_key=${{ secrets.SECRET_KEY }}\nhost_base=storage.yandexcloud.net\nhost_bucket=%(bucket)s.storage.yandexcloud.net\nbucket_location=ru-central1" > ~/.s3cfg
+          echo -e "[default]\naccess_key=${{ secrets.ACCESS_KEY }}\nsecret_key=${{ secrets.SECRET_KEY }}\nhost_base=${{ secrets.HOST_BASE }}\nhost_bucket=${{ secrets.HOST_BUCKET }}\nbucket_location=${{ secrets.REGION }}" > ~/.s3cfg
 
-      - name: Upload to Object Storage
-        run: s3cmd put website-portfolio/index.html s3://devopsask.site/index.html
+      - name: Upload 'index.html', 'AskerKakhramanov-CV.doc' to Object Storage 1
+        run: |
+          s3cmd put website-portfolio/index.html s3://${{ secrets.OBJECT_STORAGE_1 }}/index.html
+          s3cmd put website-portfolio/AskerKakhramanov-CV.doc s3://${{ secrets.OBJECT_STORAGE_1 }}/AskerKakhramanov-CV.doc
+
+      - name: Upload 'index.html', 'AskerKakhramanov-CV.doc' to Object Storage 2
+        run: |
+          s3cmd put website-portfolio/index.html s3://${{ secrets.OBJECT_STORAGE_2 }}/index.html
+          s3cmd put website-portfolio/AskerKakhramanov-CV.doc s3://${{ secrets.OBJECT_STORAGE_2 }}/AskerKakhramanov-CV.doc
