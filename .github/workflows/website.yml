@@ -1,0 +1,24 @@
+name: Upload to Object Storage
+
+on:
+  push:
+    paths:
+      - 'website-portfolio\index.html'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Set up S3cmd
+        uses: s3-actions/s3cmd@v1.4.0
+        with:
+          provider: ${{ secrets.PROVIDER }}
+          region: ${{ secrets.REGION }}
+          access_key: ${{ secrets.ACCESS_KEY }}
+          secret_key: ${{ secrets.SECRET_KEY }}
+
+      - name: Upload to Object Storage
+        run: s3cmd put index.html s3://devopsask.site/index.html
