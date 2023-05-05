@@ -3,7 +3,7 @@ name: Upload to Object Storage
 on:
   push:
     paths:
-      - 'website-portfolio\index.html'
+      - 'website-portfolio/index.html'
 
 jobs:
   deploy:
