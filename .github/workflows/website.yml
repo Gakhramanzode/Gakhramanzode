@@ -19,6 +19,8 @@ jobs:
           region: ${{ secrets.REGION }}
           access_key: ${{ secrets.ACCESS_KEY }}
           secret_key: ${{ secrets.SECRET_KEY }}
+          host_base: storage.yandexcloud.net
+          host_bucket: '%(bucket)s.storage.yandexcloud.net'
 
       - name: Upload to Object Storage
         run: s3cmd put index.html s3://devopsask.site/index.html
