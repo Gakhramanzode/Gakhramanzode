@@ -3,6 +3,7 @@
 - 📫 My e-mail: asker.kakhramanov@me.com
 
 Here are my projects and the link to them:
+- [Contributor ansible-role-kafka](https://github.com/m-shalenko/ansible-role-kafka)
 - [CI for node.js webapp](https://github.com/Gakhramanzode/apod-website-node#%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 - [My first pet-project](https://github.com/Gakhramanzode/fridge-v3#fridge-v3)
 - [Source python code for bots in telegram](https://github.com/Gakhramanzode/bots-telegram#bots-telegram)
